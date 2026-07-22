@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Fichiers temporaires
+*.log
+*.tmp
+*.bak
+
+# Variables d'environnement
+.env
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
